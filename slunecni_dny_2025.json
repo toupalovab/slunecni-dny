@@ -1,0 +1,14 @@
+[
+    { "mesic": "Leden", "pocet_slunecnych_dni": 8 },
+    { "mesic": "Unor", "pocet_slunecnych_dni": 10 },
+    { "mesic": "Brezen", "pocet_slunecnych_dni": 12 },
+    { "mesic": "Duben", "pocet_slunecnych_dni": 15 },
+    { "mesic": "Kveten", "pocet_slunecnych_dni": 18 },
+    { "mesic": "Cerven", "pocet_slunecnych_dni": 20 },
+    { "mesic": "Cervenec", "pocet_slunecnych_dni": 22 },
+    { "mesic": "Srpen", "pocet_slunecnych_dni": 21 },
+    { "mesic": "Zari", "pocet_slunecnych_dni": 16 },
+    { "mesic": "Rijen", "pocet_slunecnych_dni": 12 },
+    { "mesic": "Listopad", "pocet_slunecnych_dni": 7 },
+    { "mesic": "Prosinec", "pocet_slunecnych_dni": 6 }
+  ]
